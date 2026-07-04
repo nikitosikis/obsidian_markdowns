@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "d9eaa19c90d0eeb1",
+    "type": "split",
+    "children": [
+      {
+        "id": "f7f93f6fc8c84f8b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f7571e7f35bd2f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Алгоритмы и структуры данных/Структуры данных.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Структуры данных"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e999465950437c82",
+    "type": "split",
+    "children": [
+      {
+        "id": "4381266490ba1371",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "823b0712a6f5829f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "a5873aa3ec39dde5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "91b515a73790144e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "419230e270214b3a",
+    "type": "split",
+    "children": [
+      {
+        "id": "ad5195d52a93950b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "311202d189691eca",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Диффуры/ДЗ ДУ 28.10.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для ДЗ ДУ 28.10"
+            }
+          },
+          {
+            "id": "49505f01eb958355",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Диффуры/ДЗ ДУ 28.10.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из ДЗ ДУ 28.10"
+            }
+          },
+          {
+            "id": "287b766e5d50ad2a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "1b29661239af2874",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Диффуры/ДЗ ДУ 28.10.md"
+              },
+              "icon": "lucide-list",
+              "title": "Структура ДЗ ДУ 28.10"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Создать новую базу": false,
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "0f7571e7f35bd2f2",
+  "lastOpenFiles": [
+    "Алгоритмы и структуры данных/Алгоритмы.md",
+    "Алгоритмы и структуры данных/Структуры данных.md",
+    "2026-07-02.md",
+    "Без названия.base",
+    "Алгоритмы и структуры данных",
+    "Теормех/Домашка Теормех дедлайн 22.10.md",
+    "{DCA97676-319B-46D4-AA59-F5E4E9AC735E}.png",
+    "Диффуры/ДЗ ДУ 28.10.md",
+    "Матан/Теормин.md",
+    "Диффуры/Подготовка к КР ДУ понедельник.md",
+    "БЖД/БЖД лабы дедлайн 28.10.md",
+    "Теормех/Без названия.canvas",
+    "Матан/Задачи.md",
+    "Линейка/Задачи.md",
+    "Без названия.md",
+    "Диффуры/Задачи.md",
+    "БЖД/Ебашить лабы и тесты БЖД.md",
+    "Английский язык/Задачи.md",
+    "Теорвер/Задачи.md",
+    "Бюрократия/Задел под писма/БЖД.md",
+    "Бюрократия/Дела на позвон.md",
+    "Без названия 1.canvas",
+    "Без названия.canvas",
+    "Магнетизм/Задачи.md",
+    "2024-09-17.md",
+    "Бюрократия/Задел под писма/Кронбарс.md",
+    "Английский язык/Без названия.canvas",
+    "Бюрократия/Задел под писма",
+    "2024-09-16.md",
+    "БЖД",
+    "Физ-ра",
+    "Теормех",
+    "ЧПУ",
+    "Теорвер",
+    "Бизнес-модели",
+    "Магнетизм",
+    "Untitled.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas"
+  ]
+}
