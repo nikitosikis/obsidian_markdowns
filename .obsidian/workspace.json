@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Алгоритмы и структуры данных/Структуры данных.md",
+                "file": "SQL/9. Встроенные функции.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Структуры данных"
+              "title": "9. Встроенные функции"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Диффуры/ДЗ ДУ 28.10.md",
+                "file": "SQL/9. Встроенные функции.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для ДЗ ДУ 28.10"
+              "title": "Обратные ссылки для 9. Встроенные функции"
             }
           },
           {
@@ -140,18 +140,21 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Диффуры/ДЗ ДУ 28.10.md"
+                "file": "SQL/9. Встроенные функции.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура ДЗ ДУ 28.10"
+              "title": "Структура 9. Встроенные функции"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,10 +169,31 @@
   },
   "active": "0f7571e7f35bd2f2",
   "lastOpenFiles": [
+    "SQL/8. Соединение таблиц.md",
+    "SQL/7. Запросы.md",
+    "SQL/6. Операции с данными.md",
+    "SQL/9. Встроенные функции.md",
+    "SQL/5. Внешние ключи FOREIGH KEY.md",
+    "SQL/4. Атрибуты столбцов и таблиц.md",
+    "SQL/3. Типы данных MySQL.md",
+    "SQL/2. Базы данных и работа с таблицами.md",
+    "SQL/1. Настройка MySQL.md",
+    "pictures/Pasted image 20260708185537.png",
+    "pictures/Pasted image 20260708184624.png",
+    "pictures/Pasted image 20260708184350.png",
+    "pictures/Pasted image 20260708155826.png",
+    "pictures/Pasted image 20260708154658.png",
+    "pictures/Pasted image 20260707151822.png",
+    "pictures/Pasted image 20260707152537.png",
+    "pictures/Pasted image 20260707155332.png",
+    "pictures",
     "Алгоритмы и структуры данных/Алгоритмы.md",
     "Алгоритмы и структуры данных/Структуры данных.md",
-    "2026-07-02.md",
+    "Python3/Объектно-ориентированное программирование.md",
+    "SQL",
     "Без названия.base",
+    "Python3",
+    "2026-07-02.md",
     "Алгоритмы и структуры данных",
     "Теормех/Домашка Теормех дедлайн 22.10.md",
     "{DCA97676-319B-46D4-AA59-F5E4E9AC735E}.png",
@@ -180,7 +204,6 @@
     "Теормех/Без названия.canvas",
     "Матан/Задачи.md",
     "Линейка/Задачи.md",
-    "Без названия.md",
     "Диффуры/Задачи.md",
     "БЖД/Ебашить лабы и тесты БЖД.md",
     "Английский язык/Задачи.md",
@@ -189,20 +212,12 @@
     "Бюрократия/Дела на позвон.md",
     "Без названия 1.canvas",
     "Без названия.canvas",
-    "Магнетизм/Задачи.md",
-    "2024-09-17.md",
-    "Бюрократия/Задел под писма/Кронбарс.md",
     "Английский язык/Без названия.canvas",
     "Бюрократия/Задел под писма",
-    "2024-09-16.md",
     "БЖД",
     "Физ-ра",
     "Теормех",
     "ЧПУ",
-    "Теорвер",
-    "Бизнес-модели",
-    "Магнетизм",
-    "Untitled.md",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
