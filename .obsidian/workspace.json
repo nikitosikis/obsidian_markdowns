@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python3/2. NumPy/1. Введение в NumPy.md",
+                "file": "Python3/2. NumPy/2. Математические операции над массивами.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Введение в NumPy"
+              "title": "2. Математические операции над массивами"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python3/2. NumPy/1. Введение в NumPy.md",
+                "file": "Python3/2. NumPy/2. Математические операции над массивами.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для 1. Введение в NumPy"
+              "title": "Обратные ссылки для 2. Математические операции над массивами"
             }
           },
           {
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python3/2. NumPy/1. Введение в NumPy.md",
+                "file": "Python3/2. NumPy/2. Математические операции над массивами.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 1. Введение в NumPy"
+              "title": "Структура 2. Математические операции над массивами"
             }
           }
         ],
@@ -169,6 +169,8 @@
   },
   "active": "0f7571e7f35bd2f2",
   "lastOpenFiles": [
+    "Python3/2. NumPy/1. Введение в NumPy. Массивы.md",
+    "Python3/2. NumPy/2. Математические операции над массивами.md",
     "Python3/1. Python/1. Алгоритмы и структуры данных/Структуры данных.md",
     "Python3/1. Python/1. Алгоритмы и структуры данных/Алгоритмы.md",
     "SQL/9. Встроенные функции.md",
@@ -181,7 +183,6 @@
     "SQL/2. Базы данных и работа с таблицами.md",
     "SQL/1. Настройка MySQL.md",
     "Python3/1. Python/2. Объектно-ориентированное программирование.md",
-    "Python3/2. NumPy/1. Введение в NumPy.md",
     "Python3/1. Python/3. Обработка ошибок и исключений.md",
     "Python3/4. PyTorch",
     "Python3/3. Pandas",
@@ -213,7 +214,6 @@
     "Линейка/Задачи.md",
     "Диффуры/Задачи.md",
     "БЖД/Ебашить лабы и тесты БЖД.md",
-    "Английский язык/Задачи.md",
     "Без названия 1.canvas",
     "Без названия.canvas",
     "Английский язык/Без названия.canvas",
