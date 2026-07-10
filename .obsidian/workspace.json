@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/9. Встроенные функции.md",
+                "file": "Python3/2. NumPy/1. Введение в NumPy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "9. Встроенные функции"
+              "title": "1. Введение в NumPy"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/9. Встроенные функции.md",
+                "file": "Python3/2. NumPy/1. Введение в NumPy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для 9. Встроенные функции"
+              "title": "Обратные ссылки для 1. Введение в NumPy"
             }
           },
           {
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/9. Встроенные функции.md",
-                "followCursor": false,
+                "file": "Python3/2. NumPy/1. Введение в NumPy.md",
+                "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 9. Встроенные функции"
+              "title": "Структура 1. Введение в NumPy"
             }
           }
         ],
@@ -169,15 +169,25 @@
   },
   "active": "0f7571e7f35bd2f2",
   "lastOpenFiles": [
+    "Python3/1. Python/1. Алгоритмы и структуры данных/Структуры данных.md",
+    "Python3/1. Python/1. Алгоритмы и структуры данных/Алгоритмы.md",
+    "SQL/9. Встроенные функции.md",
     "SQL/8. Соединение таблиц.md",
     "SQL/7. Запросы.md",
     "SQL/6. Операции с данными.md",
-    "SQL/9. Встроенные функции.md",
     "SQL/5. Внешние ключи FOREIGH KEY.md",
     "SQL/4. Атрибуты столбцов и таблиц.md",
     "SQL/3. Типы данных MySQL.md",
     "SQL/2. Базы данных и работа с таблицами.md",
     "SQL/1. Настройка MySQL.md",
+    "Python3/1. Python/2. Объектно-ориентированное программирование.md",
+    "Python3/2. NumPy/1. Введение в NumPy.md",
+    "Python3/1. Python/3. Обработка ошибок и исключений.md",
+    "Python3/4. PyTorch",
+    "Python3/3. Pandas",
+    "Python3/Без названия.md",
+    "Python3/2. NumPy",
+    "Python3/1. Python",
     "pictures/Pasted image 20260708185537.png",
     "pictures/Pasted image 20260708184624.png",
     "pictures/Pasted image 20260708184350.png",
@@ -187,14 +197,11 @@
     "pictures/Pasted image 20260707152537.png",
     "pictures/Pasted image 20260707155332.png",
     "pictures",
-    "Алгоритмы и структуры данных/Алгоритмы.md",
-    "Алгоритмы и структуры данных/Структуры данных.md",
-    "Python3/Объектно-ориентированное программирование.md",
     "SQL",
     "Без названия.base",
     "Python3",
     "2026-07-02.md",
-    "Алгоритмы и структуры данных",
+    "Python3/1. Python/1. Алгоритмы и структуры данных",
     "Теормех/Домашка Теормех дедлайн 22.10.md",
     "{DCA97676-319B-46D4-AA59-F5E4E9AC735E}.png",
     "Диффуры/ДЗ ДУ 28.10.md",
@@ -207,17 +214,10 @@
     "Диффуры/Задачи.md",
     "БЖД/Ебашить лабы и тесты БЖД.md",
     "Английский язык/Задачи.md",
-    "Теорвер/Задачи.md",
-    "Бюрократия/Задел под писма/БЖД.md",
-    "Бюрократия/Дела на позвон.md",
     "Без названия 1.canvas",
     "Без названия.canvas",
     "Английский язык/Без названия.canvas",
     "Бюрократия/Задел под писма",
-    "БЖД",
-    "Физ-ра",
-    "Теормех",
-    "ЧПУ",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
