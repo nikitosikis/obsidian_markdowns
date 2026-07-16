@@ -13,15 +13,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python3/2. NumPy/2. Математические операции над массивами.md",
+                "file": "Python3/3. Pandas/4. Фильтрация.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Математические операции над массивами"
+              "title": "4. Фильтрация"
+            }
+          },
+          {
+            "id": "cdfe16e58202b338",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python3/3. Pandas/7. Организация данных.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "7. Организация данных"
+            }
+          },
+          {
+            "id": "004543c8a69697bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python3/3. Pandas/9. Визуализация данных. Matplotlib.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "9. Визуализация данных. Matplotlib"
+            }
+          },
+          {
+            "id": "c2afa42a2f89ba10",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python3/3. Pandas/9. Визуализация данных. Matplotlib.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "9. Визуализация данных. Matplotlib"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -94,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python3/2. NumPy/2. Математические операции над массивами.md",
+                "file": "Python3/3. Pandas/Тип данных DataFrame.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для 2. Математические операции над массивами"
+              "title": "Обратные ссылки для Тип данных DataFrame"
             }
           },
           {
@@ -140,13 +183,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python3/2. NumPy/2. Математические операции над массивами.md",
+                "file": "Python3/3. Pandas/9. Визуализация данных. Matplotlib.md",
                 "followCursor": true,
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 2. Математические операции над массивами"
+              "title": "Структура 9. Визуализация данных. Matplotlib"
             }
           }
         ],
@@ -167,57 +210,57 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "0f7571e7f35bd2f2",
+  "active": "c2afa42a2f89ba10",
   "lastOpenFiles": [
-    "Python3/2. NumPy/1. Введение в NumPy. Массивы.md",
+    "pictures/Pasted image 20260716210435.png",
+    "Python3/3. Pandas/9. Визуализация данных. Matplotlib.md",
+    "pictures/Pasted image 20260716210355.png",
+    "pictures/Pasted image 20260716210313.png",
+    "pictures/Pasted image 20260716210237.png",
+    "pictures/Pasted image 20260716210235.png",
+    "pictures/Pasted image 20260716205938.png",
+    "Python3/3. Pandas/8. Анализ временных рядов.md",
+    "Python3/3. Pandas/7. Организация данных.md",
+    "Python3/3. Pandas/5. Очистка данных.md",
+    "Python3/3. Pandas/5. Очистка данных.md",
+    "Python3/3. Pandas/6. Группировка и агрегация.md",
+    "Python3/3. Pandas/4. Фильтрация.md",
+    "Python3/3. Pandas/1. Введение в Pandas.md",
+    "SQL/10. Задачки на SQL.md",
+    "Заметки на почитать.md",
+    "Python3/3. Pandas/3. Тип данных DataFrame.md",
+    "Python3/3. Pandas/2. Тип данных Series.md",
+    "Python3/2. NumPy/4. Математика многочленов, Статистика, случайные числа.md",
+    "Python3/2. NumPy/3. Векторная и матричная математика.md",
     "Python3/2. NumPy/2. Математические операции над массивами.md",
-    "Python3/1. Python/1. Алгоритмы и структуры данных/Структуры данных.md",
-    "Python3/1. Python/1. Алгоритмы и структуры данных/Алгоритмы.md",
-    "SQL/9. Встроенные функции.md",
-    "SQL/8. Соединение таблиц.md",
+    "Python3/2. NumPy/1. Введение в NumPy. Массивы.md",
     "SQL/7. Запросы.md",
+    "SQL/8. Соединение таблиц.md",
     "SQL/6. Операции с данными.md",
     "SQL/5. Внешние ключи FOREIGH KEY.md",
-    "SQL/4. Атрибуты столбцов и таблиц.md",
     "SQL/3. Типы данных MySQL.md",
     "SQL/2. Базы данных и работа с таблицами.md",
     "SQL/1. Настройка MySQL.md",
     "Python3/1. Python/2. Объектно-ориентированное программирование.md",
-    "Python3/1. Python/3. Обработка ошибок и исключений.md",
+    "Python3/1. Python/1. Алгоритмы и структуры данных/Структуры данных.md",
+    "pictures/Pasted image 20260711235216.png",
+    "Математика",
     "Python3/4. PyTorch",
     "Python3/3. Pandas",
-    "Python3/Без названия.md",
     "Python3/2. NumPy",
     "Python3/1. Python",
     "pictures/Pasted image 20260708185537.png",
     "pictures/Pasted image 20260708184624.png",
     "pictures/Pasted image 20260708184350.png",
-    "pictures/Pasted image 20260708155826.png",
-    "pictures/Pasted image 20260708154658.png",
-    "pictures/Pasted image 20260707151822.png",
-    "pictures/Pasted image 20260707152537.png",
-    "pictures/Pasted image 20260707155332.png",
     "pictures",
     "SQL",
     "Без названия.base",
     "Python3",
-    "2026-07-02.md",
     "Python3/1. Python/1. Алгоритмы и структуры данных",
-    "Теормех/Домашка Теормех дедлайн 22.10.md",
-    "{DCA97676-319B-46D4-AA59-F5E4E9AC735E}.png",
-    "Диффуры/ДЗ ДУ 28.10.md",
-    "Матан/Теормин.md",
-    "Диффуры/Подготовка к КР ДУ понедельник.md",
-    "БЖД/БЖД лабы дедлайн 28.10.md",
     "Теормех/Без названия.canvas",
-    "Матан/Задачи.md",
-    "Линейка/Задачи.md",
-    "Диффуры/Задачи.md",
-    "БЖД/Ебашить лабы и тесты БЖД.md",
     "Без названия 1.canvas",
     "Без названия.canvas",
     "Английский язык/Без названия.canvas",
-    "Бюрократия/Задел под писма",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
