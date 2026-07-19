@@ -208,12 +208,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Диффуры/ДЗ ДУ 28.10.md",
+                "file": "Python3/4. PyTorch/1. Введение в Pytorch/14. Создание своего набора данных.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из ДЗ ДУ 28.10"
+              "title": "Исходящие ссылки из 14. Создание своего набора данных"
             }
           },
           {
@@ -273,7 +273,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "823b0712a6f5829f",
+  "active": "1b29661239af2874",
   "lastOpenFiles": [
     "pictures/Pasted image 20260720010142.png",
     "pictures/Pasted image 20260720005123.png",
