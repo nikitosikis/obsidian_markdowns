@@ -65,12 +65,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python3/3. Pandas/7. Организация данных.md",
+                "file": "Python3/4. PyTorch/10. Обучение и оптимизация параметров модели.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7. Организация данных"
+              "title": "10. Обучение и оптимизация параметров модели"
             }
           },
           {
@@ -221,13 +221,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python3/3. Pandas/7. Организация данных.md",
+                "file": "Python3/4. PyTorch/10. Обучение и оптимизация параметров модели.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 7. Организация данных"
+              "title": "Структура 10. Обучение и оптимизация параметров модели"
             }
           }
         ],
@@ -245,17 +245,20 @@
       "canvas:Создать новый холст": false,
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false
+      "command-palette:Открыть палитру команд": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "823b0712a6f5829f",
+  "active": "cdfe16e58202b338",
   "lastOpenFiles": [
+    "Python3/4. PyTorch/9. Градиенты и автоматическое дифференцирование.md",
+    "Python3/4. PyTorch/10. Обучение и оптимизация параметров модели.md",
+    "Python3/3. Pandas/7. Организация данных.md",
     "Без названия.base",
     "Без названия.canvas",
     "Pasted image 20260719231533.png",
     "Pasted image 20260719231531.png",
     "2026-07-19.md",
-    "Python3/4. PyTorch/9. Градиенты и автоматическое дифференцирование.md",
     "Pasted image 20260719231213.png",
     "Python3/4. PyTorch/8. Передача модели данных.md",
     "Python3/4. PyTorch/7. Создание модели.md",
@@ -279,7 +282,6 @@
     "pictures/Pasted image 20260716214310.png",
     "Python3/3. Pandas/9. Визуализация данных. Matplotlib.md",
     "Python3/3. Pandas/8. Анализ временных рядов.md",
-    "Python3/3. Pandas/7. Организация данных.md",
     "Python3/3. Pandas/5. Очистка данных.md",
     "Python3/3. Pandas/5. Очистка данных.md",
     "Python3/3. Pandas/6. Группировка и агрегация.md",
