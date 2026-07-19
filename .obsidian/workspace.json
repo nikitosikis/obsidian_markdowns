@@ -65,12 +65,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python3/4. PyTorch/11. Сохранение и загрузка данных и модели.md",
+                "file": "Python3/4. PyTorch/12. Применение обученной модели.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "11. Сохранение и загрузка данных и модели"
+              "title": "12. Применение обученной модели"
             }
           },
           {
@@ -134,7 +134,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "unsqueeze",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -155,7 +155,8 @@
               "title": "Закладки"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -221,13 +222,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python3/4. PyTorch/11. Сохранение и загрузка данных и модели.md",
+                "file": "Python3/4. PyTorch/12. Применение обученной модели.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 11. Сохранение и загрузка данных и модели"
+              "title": "Структура 12. Применение обученной модели"
             }
           }
         ],
@@ -249,10 +250,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cdfe16e58202b338",
+  "active": "a5873aa3ec39dde5",
   "lastOpenFiles": [
-    "Python3/4. PyTorch/10. Обучение и оптимизация параметров модели.md",
+    "pictures/Pasted image 20260720003803.png",
     "Python3/4. PyTorch/11. Сохранение и загрузка данных и модели.md",
+    "Python3/4. PyTorch/12. Применение обученной модели.md",
+    "Python3/4. PyTorch/10. Обучение и оптимизация параметров модели.md",
     "Python3/4. PyTorch/9. Градиенты и автоматическое дифференцирование.md",
     "Python3/3. Pandas/7. Организация данных.md",
     "Без названия.base",
@@ -288,8 +291,6 @@
     "Python3/3. Pandas/6. Группировка и агрегация.md",
     "Python3/3. Pandas/1. Введение в Pandas.md",
     "SQL/10. Задачки на SQL.md",
-    "Python3/3. Pandas/3. Тип данных DataFrame.md",
-    "Python3/3. Pandas/2. Тип данных Series.md",
     "Математика",
     "Python3/4. PyTorch",
     "Python3/3. Pandas",
