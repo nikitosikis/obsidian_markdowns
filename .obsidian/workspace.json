@@ -79,12 +79,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Машинное обучение/1. Линейная регрессия.md",
+                "file": "Python3/4. PyTorch/1. Введение в Pytorch/3. Тензоры.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Линейная регрессия"
+              "title": "3. Тензоры"
             }
           },
           {
@@ -208,12 +208,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Машинное обучение/1. Линейная регрессия.md",
+                "file": "Python3/4. PyTorch/1. Введение в Pytorch/3. Тензоры.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из 1. Линейная регрессия"
+              "title": "Исходящие ссылки из 3. Тензоры"
             }
           },
           {
@@ -235,13 +235,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Машинное обучение/1. Линейная регрессия.md",
+                "file": "Python3/4. PyTorch/1. Введение в Pytorch/3. Тензоры.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 1. Линейная регрессия"
+              "title": "Структура 3. Тензоры"
             }
           },
           {
@@ -275,8 +275,9 @@
   },
   "active": "e421f7ea0cfb287d",
   "lastOpenFiles": [
-    "Машинное обучение/linear_regression.ipynb",
+    "Python3/4. PyTorch/1. Введение в Pytorch/2. Введение в Deep Learning.md",
     "Машинное обучение/1. Линейная регрессия.md",
+    "Машинное обучение/linear_regression.ipynb",
     "Python3/1. Python/1. Алгоритмы и структуры данных/Алгоритмы.md",
     "Python3/4. PyTorch/1. Введение в Pytorch/14. Создание своего набора данных.md",
     "Глубокое обучение",
@@ -312,7 +313,6 @@
     "pictures/Pasted image 20260716222557.png",
     "pictures/Pasted image 20260719191849.png",
     "Python3/4. PyTorch/1. Введение в Pytorch/3. Тензоры.md",
-    "Python3/4. PyTorch/1. Введение в Pytorch/2. Введение в Deep Learning.md",
     "Python3/3. Pandas/4. Фильтрация.md",
     "Python3/3. Pandas/9. Визуализация данных. Matplotlib.md",
     "Python3/3. Pandas/8. Анализ временных рядов.md",
