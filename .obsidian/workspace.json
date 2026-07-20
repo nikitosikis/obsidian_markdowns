@@ -79,12 +79,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python3/4. PyTorch/1. Введение в Pytorch/9. Градиенты и автоматическое дифференцирование.md",
+                "file": "Python3/4. PyTorch/1. Введение в Pytorch/10. Обучение и оптимизация параметров модели.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "9. Градиенты и автоматическое дифференцирование"
+              "title": "10. Обучение и оптимизация параметров модели"
             }
           }
         ],
@@ -180,12 +180,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python3/4. PyTorch/1. Введение в Pytorch/9. Градиенты и автоматическое дифференцирование.md",
+                "file": "Python3/4. PyTorch/1. Введение в Pytorch/10. Обучение и оптимизация параметров модели.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из 9. Градиенты и автоматическое дифференцирование"
+              "title": "Исходящие ссылки из 10. Обучение и оптимизация параметров модели"
             }
           },
           {
@@ -207,13 +207,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python3/4. PyTorch/1. Введение в Pytorch/9. Градиенты и автоматическое дифференцирование.md",
+                "file": "Python3/4. PyTorch/1. Введение в Pytorch/10. Обучение и оптимизация параметров модели.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 9. Градиенты и автоматическое дифференцирование"
+              "title": "Структура 10. Обучение и оптимизация параметров модели"
             }
           },
           {
@@ -247,12 +247,16 @@
   },
   "active": "c2afa42a2f89ba10",
   "lastOpenFiles": [
+    "Python3/4. PyTorch/1. Введение в Pytorch/1. Установка и конфигурация Pytorch.md",
+    "Python3/4. PyTorch/1. Введение в Pytorch/2. Введение в Deep Learning.md",
+    "Python3/4. PyTorch/1. Введение в Pytorch/3. Тензоры.md",
+    "Python3/4. PyTorch/1. Введение в Pytorch/4. Наборы данных Dataset.md",
+    "Python3/4. PyTorch/1. Введение в Pytorch/5. Загрузчики данных DataLoader.md",
+    "Python3/4. PyTorch/1. Введение в Pytorch/6. Определение слоев нейронной сети.md",
+    "Python3/4. PyTorch/1. Введение в Pytorch/7. Создание модели.md",
     "Python3/4. PyTorch/1. Введение в Pytorch/11. Сохранение и загрузка данных и модели.md",
     "Python3/4. PyTorch/1. Введение в Pytorch/9. Градиенты и автоматическое дифференцирование.md",
     "Python3/4. PyTorch/1. Введение в Pytorch/10. Обучение и оптимизация параметров модели.md",
-    "Python3/4. PyTorch/1. Введение в Pytorch/3. Тензоры.md",
-    "Python3/4. PyTorch/1. Введение в Pytorch/1. Установка и конфигурация Pytorch.md",
-    "Python3/4. PyTorch/1. Введение в Pytorch/2. Введение в Deep Learning.md",
     "Python3/3. Pandas/9. Визуализация данных. Matplotlib.md",
     "Python3/1. Python/3. Обработка ошибок и исключений.md",
     "Python3/2. NumPy/1. Введение в NumPy. Массивы.md",
@@ -269,10 +273,6 @@
     "SQL/1. Настройка MySQL.md",
     "SQL/2. Базы данных и работа с таблицами.md",
     "SQL/3. Типы данных MySQL.md",
-    "SQL/5. Внешние ключи FOREIGH KEY.md",
-    "SQL/6. Операции с данными.md",
-    "SQL/8. Соединение таблиц.md",
-    "SQL/10. Задачки на SQL.md",
     "Машинное обучение/linear_regression.ipynb",
     "Глубокое обучение",
     "Машинное обучение",
