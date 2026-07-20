@@ -79,7 +79,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Математика/1. Линейная регрессия.md",
+                "file": "Машинное обучение/1. Линейная регрессия.md",
                 "mode": "source",
                 "source": false
               },
@@ -208,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Математика/1. Линейная регрессия.md",
+                "file": "Машинное обучение/1. Линейная регрессия.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -235,7 +235,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Математика/1. Линейная регрессия.md",
+                "file": "Машинное обучение/1. Линейная регрессия.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
@@ -275,8 +275,10 @@
   },
   "active": "e421f7ea0cfb287d",
   "lastOpenFiles": [
+    "Машинное обучение/linear_regression.ipynb",
+    "Машинное обучение/1. Линейная регрессия.md",
+    "Python3/1. Python/1. Алгоритмы и структуры данных/Алгоритмы.md",
     "Python3/4. PyTorch/1. Введение в Pytorch/14. Создание своего набора данных.md",
-    "Математика/1. Линейная регрессия.md",
     "Глубокое обучение",
     "Машинное обучение",
     "pictures/Pasted image 20260720010142.png",
@@ -315,13 +317,10 @@
     "Python3/3. Pandas/9. Визуализация данных. Matplotlib.md",
     "Python3/3. Pandas/8. Анализ временных рядов.md",
     "Python3/3. Pandas/5. Очистка данных.md",
-    "Python3/3. Pandas/5. Очистка данных.md",
-    "Python3/3. Pandas/6. Группировка и агрегация.md",
     "Математика",
     "Python3/4. PyTorch",
     "Python3/3. Pandas",
     "Python3/2. NumPy",
-    "Python3/1. Python",
     "Теормех/Без названия.canvas",
     "Без названия 1.canvas",
     "Английский язык/Без названия.canvas",
