@@ -79,10 +79,10 @@
             "state": {
               "type": "jupyter-viewer",
               "state": {
-                "file": "Машинное обучение/linear_regression.ipynb"
+                "file": "Курс ML МФТИ/1. Основы машинного обучения/Feature_engineering.ipynb"
               },
               "icon": "lucide-file",
-              "title": "linear_regression"
+              "title": "Feature_engineering"
             }
           }
         ],
@@ -205,13 +205,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Машинное обучение/linear_regression.ipynb",
+                "file": "Курс ML МФТИ/1. Основы машинного обучения/Feature_engineering.ipynb",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура linear_regression"
+              "title": "Структура Feature_engineering"
             }
           },
           {
@@ -220,8 +220,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           }
         ],
@@ -245,8 +245,13 @@
   },
   "active": "c2afa42a2f89ba10",
   "lastOpenFiles": [
-    "Машинное обучение/1. Линейная регрессия.md",
+    "Курс ML МФТИ/1. Основы машинного обучения/part_2_intro_to_sklearn.ipynb",
+    "Курс ML МФТИ/1. Основы машинного обучения/part_1_data_analysis.ipynb",
+    "Курс ML МФТИ/1. Основы машинного обучения/Feature_engineering.ipynb",
     "Машинное обучение/linear_regression.ipynb",
+    "Курс ML МФТИ/1. Основы машинного обучения",
+    "Курс ML МФТИ",
+    "Машинное обучение/1. Линейная регрессия.md",
     "Python3/3. Pandas/5. Очистка данных.md",
     "Python3/3. Pandas/4. Фильтрация.md",
     "Python3/3. Pandas/6. Группировка и агрегация.md",
@@ -257,10 +262,6 @@
     "Машинное обучение/datasets/house_pricing/sample_submission.csv",
     "Машинное обучение/datasets/house_pricing/data_description.txt",
     "sample_submission.csv",
-    "data_description.txt",
-    "train.csv",
-    "test.csv",
-    "Машинное обучение/datasets/house_pricing",
     "Python3/4. PyTorch/1. Введение в Pytorch/10. Обучение и оптимизация параметров модели.md",
     "Python3/4. PyTorch/1. Введение в Pytorch/1. Установка и конфигурация Pytorch.md",
     "Python3/4. PyTorch/1. Введение в Pytorch/2. Введение в Deep Learning.md",
