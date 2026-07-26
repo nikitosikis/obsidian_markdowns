@@ -247,8 +247,9 @@
   },
   "active": "c2afa42a2f89ba10",
   "lastOpenFiles": [
-    "Python3/3. Pandas/6. Группировка и агрегация.md",
     "Python3/3. Pandas/5. Очистка данных.md",
+    "Python3/3. Pandas/4. Фильтрация.md",
+    "Python3/3. Pandas/6. Группировка и агрегация.md",
     "Без названия.base",
     "Курс ML МФТИ/1. Основы машинного обучения/Feature_engineering.ipynb",
     "Курс ML МФТИ/1. Основы машинного обучения/part_2_intro_to_sklearn.ipynb",
@@ -257,7 +258,6 @@
     "Курс ML МФТИ/1. Основы машинного обучения",
     "Курс ML МФТИ",
     "Машинное обучение/1. Линейная регрессия.md",
-    "Python3/3. Pandas/4. Фильтрация.md",
     "Python3/3. Pandas/3. Тип данных DataFrame.md",
     "Python3/4. PyTorch/1. Введение в Pytorch/9. Градиенты и автоматическое дифференцирование.md",
     "Машинное обучение/datasets/house_pricing/train.csv",
