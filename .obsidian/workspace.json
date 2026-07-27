@@ -13,10 +13,10 @@
             "state": {
               "type": "jupyter-viewer",
               "state": {
-                "file": "Курс ML МФТИ/1. Основы машинного обучения/1. part_1_data_analysis.ipynb"
+                "file": "Курс ML МФТИ/1. Основы машинного обучения/4. hw_1_game_of_thrones.ipynb"
               },
               "icon": "lucide-file",
-              "title": "1. part_1_data_analysis"
+              "title": "4. hw_1_game_of_thrones"
             }
           },
           {
@@ -177,12 +177,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Курс ML МФТИ/1. Основы машинного обучения/1. part_1_data_analysis.ipynb",
+                "file": "Курс ML МФТИ/1. Основы машинного обучения/4. hw_1_game_of_thrones.ipynb",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из 1. part_1_data_analysis"
+              "title": "Исходящие ссылки из 4. hw_1_game_of_thrones"
             }
           },
           {
@@ -204,13 +204,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Курс ML МФТИ/1. Основы машинного обучения/1. part_1_data_analysis.ipynb",
+                "file": "Курс ML МФТИ/1. Основы машинного обучения/4. hw_1_game_of_thrones.ipynb",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 1. part_1_data_analysis"
+              "title": "Структура 4. hw_1_game_of_thrones"
             }
           },
           {
@@ -242,11 +242,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "823b0712a6f5829f",
+  "active": "0f7571e7f35bd2f2",
   "lastOpenFiles": [
+    "Курс ML МФТИ/1. Основы машинного обучения/1. part_1_data_analysis.ipynb",
     "Курс ML МФТИ/1. Основы машинного обучения/4. hw_1_game_of_thrones.ipynb",
     "Курс ML МФТИ/1. Основы машинного обучения/3. Feature_engineering.ipynb",
-    "Курс ML МФТИ/1. Основы машинного обучения/1. part_1_data_analysis.ipynb",
     "Курс ML МФТИ/1. Основы машинного обучения/2. part_2_intro_to_sklearn.ipynb",
     "pictures/Pasted image 20260716222557.png",
     "Машинное обучение/linear_regression.ipynb",
