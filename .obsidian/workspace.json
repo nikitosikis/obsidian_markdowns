@@ -11,12 +11,12 @@
             "id": "0f7571e7f35bd2f2",
             "type": "leaf",
             "state": {
-              "type": "jupyter-viewer",
+              "type": "pdf",
               "state": {
-                "file": "Курс ML МФТИ/1. Основы машинного обучения/4. hw_1_game_of_thrones.ipynb"
+                "file": "Курс ML МФТИ/2. Линейные модели/1. Линейные модели.pdf"
               },
-              "icon": "lucide-file",
-              "title": "4. hw_1_game_of_thrones"
+              "icon": "lucide-file-text",
+              "title": "1. Линейные модели"
             }
           },
           {
@@ -177,12 +177,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Курс ML МФТИ/1. Основы машинного обучения/4. hw_1_game_of_thrones.ipynb",
+                "file": "Курс ML МФТИ/2. Линейные модели/1. Линейные модели.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из 4. hw_1_game_of_thrones"
+              "title": "Исходящие ссылки из 1. Линейные модели"
             }
           },
           {
@@ -204,13 +204,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Курс ML МФТИ/1. Основы машинного обучения/4. hw_1_game_of_thrones.ipynb",
+                "file": "Курс ML МФТИ/2. Линейные модели/1. Линейные модели.pdf",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 4. hw_1_game_of_thrones"
+              "title": "Структура 1. Линейные модели"
             }
           },
           {
@@ -244,8 +244,10 @@
   },
   "active": "0f7571e7f35bd2f2",
   "lastOpenFiles": [
-    "Курс ML МФТИ/1. Основы машинного обучения/1. part_1_data_analysis.ipynb",
     "Курс ML МФТИ/1. Основы машинного обучения/4. hw_1_game_of_thrones.ipynb",
+    "Курс ML МФТИ/2. Линейные модели/1. Линейные модели.pdf",
+    "Курс ML МФТИ/2. Линейные модели",
+    "Курс ML МФТИ/1. Основы машинного обучения/1. part_1_data_analysis.ipynb",
     "Курс ML МФТИ/1. Основы машинного обучения/3. Feature_engineering.ipynb",
     "Курс ML МФТИ/1. Основы машинного обучения/2. part_2_intro_to_sklearn.ipynb",
     "pictures/Pasted image 20260716222557.png",
@@ -260,8 +262,6 @@
     "Python3/4. PyTorch/1. Введение в Pytorch/9. Градиенты и автоматическое дифференцирование.md",
     "Машинное обучение/datasets/house_pricing/train.csv",
     "Машинное обучение/datasets/house_pricing/test.csv",
-    "Машинное обучение/datasets/house_pricing/sample_submission.csv",
-    "Машинное обучение/datasets/house_pricing/data_description.txt",
     "Python3/4. PyTorch/1. Введение в Pytorch/10. Обучение и оптимизация параметров модели.md",
     "Python3/4. PyTorch/1. Введение в Pytorch/1. Установка и конфигурация Pytorch.md",
     "Python3/4. PyTorch/1. Введение в Pytorch/2. Введение в Deep Learning.md",
