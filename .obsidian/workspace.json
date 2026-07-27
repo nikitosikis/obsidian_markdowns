@@ -11,12 +11,12 @@
             "id": "0f7571e7f35bd2f2",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "jupyter-viewer",
               "state": {
-                "file": "pictures/Pasted image 20260716222557.png"
+                "file": "Курс ML МФТИ/1. Основы машинного обучения/1. part_1_data_analysis.ipynb"
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260716222557"
+              "icon": "lucide-file",
+              "title": "1. part_1_data_analysis"
             }
           },
           {
@@ -77,18 +77,15 @@
             "id": "c2afa42a2f89ba10",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "jupyter-viewer",
               "state": {
-                "file": "Python3/3. Pandas/4. Фильтрация.md",
-                "mode": "source",
-                "source": false
+                "file": "Курс ML МФТИ/1. Основы машинного обучения/2. part_2_intro_to_sklearn.ipynb"
               },
               "icon": "lucide-file",
-              "title": "4. Фильтрация"
+              "title": "2. part_2_intro_to_sklearn"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -180,12 +177,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Машинное обучение/linear_regression.ipynb",
+                "file": "Курс ML МФТИ/1. Основы машинного обучения/1. part_1_data_analysis.ipynb",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из linear_regression"
+              "title": "Исходящие ссылки из 1. part_1_data_analysis"
             }
           },
           {
@@ -207,13 +204,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python3/3. Pandas/4. Фильтрация.md",
+                "file": "Курс ML МФТИ/1. Основы машинного обучения/1. part_1_data_analysis.ipynb",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 4. Фильтрация"
+              "title": "Структура 1. part_1_data_analysis"
             }
           },
           {
@@ -222,8 +219,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -245,24 +242,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c2afa42a2f89ba10",
+  "active": "823b0712a6f5829f",
   "lastOpenFiles": [
-    "Python3/3. Pandas/6. Группировка и агрегация.md",
-    "Python3/3. Pandas/5. Очистка данных.md",
-    "Без названия.base",
-    "Курс ML МФТИ/1. Основы машинного обучения/Feature_engineering.ipynb",
-    "Курс ML МФТИ/1. Основы машинного обучения/part_2_intro_to_sklearn.ipynb",
-    "Курс ML МФТИ/1. Основы машинного обучения/part_1_data_analysis.ipynb",
+    "Курс ML МФТИ/1. Основы машинного обучения/4. hw_1_game_of_thrones.ipynb",
+    "Курс ML МФТИ/1. Основы машинного обучения/3. Feature_engineering.ipynb",
+    "Курс ML МФТИ/1. Основы машинного обучения/1. part_1_data_analysis.ipynb",
+    "Курс ML МФТИ/1. Основы машинного обучения/2. part_2_intro_to_sklearn.ipynb",
+    "pictures/Pasted image 20260716222557.png",
     "Машинное обучение/linear_regression.ipynb",
     "Курс ML МФТИ/1. Основы машинного обучения",
     "Курс ML МФТИ",
     "Машинное обучение/1. Линейная регрессия.md",
+    "Python3/3. Pandas/5. Очистка данных.md",
     "Python3/3. Pandas/4. Фильтрация.md",
+    "Python3/3. Pandas/6. Группировка и агрегация.md",
     "Python3/3. Pandas/3. Тип данных DataFrame.md",
     "Python3/4. PyTorch/1. Введение в Pytorch/9. Градиенты и автоматическое дифференцирование.md",
     "Машинное обучение/datasets/house_pricing/train.csv",
     "Машинное обучение/datasets/house_pricing/test.csv",
     "Машинное обучение/datasets/house_pricing/sample_submission.csv",
+    "Машинное обучение/datasets/house_pricing/data_description.txt",
     "Python3/4. PyTorch/1. Введение в Pytorch/10. Обучение и оптимизация параметров модели.md",
     "Python3/4. PyTorch/1. Введение в Pytorch/1. Установка и конфигурация Pytorch.md",
     "Python3/4. PyTorch/1. Введение в Pytorch/2. Введение в Deep Learning.md",
@@ -291,7 +290,6 @@
     "Pasted image 20260719231531.png",
     "Pasted image 20260719231213.png",
     "pictures/Pasted image 20260719193224.png",
-    "pictures/Pasted image 20260716222557.png",
     "pictures/Pasted image 20260719191849.png",
     "Теормех/Без названия.canvas",
     "Без названия 1.canvas",
