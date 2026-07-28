@@ -177,12 +177,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Курс ML МФТИ/2. Линейные модели/3. hw_2_linear_models.ipynb",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из 3. hw_2_linear_models"
+              "title": "Исходящие ссылки"
             }
           },
           {
@@ -204,13 +203,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Курс ML МФТИ/2. Линейные модели/3. hw_2_linear_models.ipynb",
+                "file": "Курс ML МФТИ/3. Композиция алгоритмов и выбор модели/Без названия.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 3. hw_2_linear_models"
+              "title": "Структура Без названия"
             }
           },
           {
@@ -242,10 +241,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0f7571e7f35bd2f2",
+  "active": "823b0712a6f5829f",
   "lastOpenFiles": [
-    "Машинное обучение/1. Линейная регрессия.md",
+    "Курс ML МФТИ/3. Композиция алгоритмов и выбор модели/1. Лекция. Решающие деревья и композиции алгоритмов.pdf",
     "Курс ML МФТИ/2. Линейные модели/3. hw_2_linear_models.ipynb",
+    "Курс ML МФТИ/3. Композиция алгоритмов и выбор модели/Без названия.md",
+    "Курс ML МФТИ/3. Композиция алгоритмов и выбор модели",
+    "Машинное обучение/1. Линейная регрессия.md",
     "Курс ML МФТИ/datasets/2. Линейные модели/train 2.csv",
     "train.csv",
     "Курс ML МФТИ/datasets/train.csv",
@@ -254,7 +256,6 @@
     "Курс ML МФТИ/datasets/2. Линейные модели",
     "Курс ML МФТИ/datasets",
     "Машинное обучение/linear_regression.ipynb",
-    "Курс ML МФТИ/2. Линейные модели/2. part_1_linear_regression.ipynb",
     "pictures/Pasted image 20260716222557.png",
     "Python3/3. Pandas/5. Очистка данных.md",
     "Python3/3. Pandas/4. Фильтрация.md",
@@ -279,7 +280,6 @@
     "Python3/3. Pandas/1. Введение в Pandas.md",
     "Python3/3. Pandas/2. Тип данных Series.md",
     "Python3/3. Pandas/7. Организация данных.md",
-    "Python3/3. Pandas/8. Анализ временных рядов.md",
     "pictures/Pasted image 20260720010142.png",
     "pictures/Pasted image 20260720005123.png",
     "pictures/Pasted image 20260720010050.png",
