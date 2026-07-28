@@ -13,10 +13,10 @@
             "state": {
               "type": "jupyter-viewer",
               "state": {
-                "file": "Машинное обучение/linear_regression.ipynb"
+                "file": "Курс ML МФТИ/2. Линейные модели/3. hw_2_linear_models.ipynb"
               },
               "icon": "lucide-file",
-              "title": "linear_regression"
+              "title": "3. hw_2_linear_models"
             }
           },
           {
@@ -177,12 +177,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Машинное обучение/linear_regression.ipynb",
+                "file": "Курс ML МФТИ/2. Линейные модели/3. hw_2_linear_models.ipynb",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из linear_regression"
+              "title": "Исходящие ссылки из 3. hw_2_linear_models"
             }
           },
           {
@@ -204,13 +204,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Машинное обучение/linear_regression.ipynb",
+                "file": "Курс ML МФТИ/2. Линейные модели/3. hw_2_linear_models.ipynb",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура linear_regression"
+              "title": "Структура 3. hw_2_linear_models"
             }
           },
           {
@@ -242,26 +242,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "823b0712a6f5829f",
+  "active": "0f7571e7f35bd2f2",
   "lastOpenFiles": [
-    "Курс ML МФТИ/2. Линейные модели/2. part_1_linear_regression.ipynb",
-    "Курс ML МФТИ/2. Линейные модели/1. Линейные модели.pdf",
-    "Курс ML МФТИ/1. Основы машинного обучения/4. hw_1_game_of_thrones.ipynb",
-    "Курс ML МФТИ/2. Линейные модели",
-    "Курс ML МФТИ/1. Основы машинного обучения/1. part_1_data_analysis.ipynb",
-    "Курс ML МФТИ/1. Основы машинного обучения/3. Feature_engineering.ipynb",
-    "Курс ML МФТИ/1. Основы машинного обучения/2. part_2_intro_to_sklearn.ipynb",
-    "pictures/Pasted image 20260716222557.png",
-    "Машинное обучение/linear_regression.ipynb",
-    "Курс ML МФТИ/1. Основы машинного обучения",
-    "Курс ML МФТИ",
     "Машинное обучение/1. Линейная регрессия.md",
+    "Курс ML МФТИ/2. Линейные модели/3. hw_2_linear_models.ipynb",
+    "Курс ML МФТИ/datasets/2. Линейные модели/train 2.csv",
+    "train.csv",
+    "Курс ML МФТИ/datasets/train.csv",
+    "Курс ML МФТИ/datasets/2. Линейные модели/train 1.csv",
+    "Курс ML МФТИ/datasets/2. Линейные модели/train.csv",
+    "Курс ML МФТИ/datasets/2. Линейные модели",
+    "Курс ML МФТИ/datasets",
+    "Машинное обучение/linear_regression.ipynb",
+    "Курс ML МФТИ/2. Линейные модели/2. part_1_linear_regression.ipynb",
+    "pictures/Pasted image 20260716222557.png",
     "Python3/3. Pandas/5. Очистка данных.md",
     "Python3/3. Pandas/4. Фильтрация.md",
     "Python3/3. Pandas/6. Группировка и агрегация.md",
     "Python3/3. Pandas/3. Тип данных DataFrame.md",
     "Python3/4. PyTorch/1. Введение в Pytorch/9. Градиенты и автоматическое дифференцирование.md",
-    "Машинное обучение/datasets/house_pricing/train.csv",
     "Python3/4. PyTorch/1. Введение в Pytorch/10. Обучение и оптимизация параметров модели.md",
     "Python3/4. PyTorch/1. Введение в Pytorch/1. Установка и конфигурация Pytorch.md",
     "Python3/4. PyTorch/1. Введение в Pytorch/2. Введение в Deep Learning.md",
