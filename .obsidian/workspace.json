@@ -13,10 +13,10 @@
             "state": {
               "type": "jupyter-viewer",
               "state": {
-                "file": "Курс ML МФТИ/3. Композиция алгоритмов и выбор модели/3. model_selection_ensembles.ipynb"
+                "file": "Курс ML МФТИ/1. Основы машинного обучения/4. hw_1_game_of_thrones.ipynb"
               },
               "icon": "lucide-file",
-              "title": "3. model_selection_ensembles"
+              "title": "4. hw_1_game_of_thrones"
             }
           },
           {
@@ -177,12 +177,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Курс ML МФТИ/3. Композиция алгоритмов и выбор модели/3. model_selection_ensembles.ipynb",
+                "file": "Курс ML МФТИ/1. Основы машинного обучения/4. hw_1_game_of_thrones.ipynb",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из 3. model_selection_ensembles"
+              "title": "Исходящие ссылки из 4. hw_1_game_of_thrones"
             }
           },
           {
@@ -204,13 +204,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Курс ML МФТИ/3. Композиция алгоритмов и выбор модели/3. model_selection_ensembles.ipynb",
+                "file": "Курс ML МФТИ/1. Основы машинного обучения/4. hw_1_game_of_thrones.ipynb",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 3. model_selection_ensembles"
+              "title": "Структура 4. hw_1_game_of_thrones"
             }
           },
           {
@@ -244,6 +244,10 @@
   },
   "active": "823b0712a6f5829f",
   "lastOpenFiles": [
+    "Курс ML МФТИ/3. Композиция алгоритмов и выбор модели/4. Copy_of_hw_3_kaggle.ipynb",
+    "Курс ML МФТИ/2. Линейные модели/3. hw_2_linear_models.ipynb",
+    "Python3/3. Pandas/5. Очистка данных.md",
+    "Курс ML МФТИ/3. Композиция алгоритмов и выбор модели/3. model_selection_ensembles.ipynb",
     "Курс ML МФТИ/datasets/3. Композиция алгоритмов и выбор модели/train.csv",
     "Курс ML МФТИ/datasets/3. Композиция алгоритмов и выбор модели/test.csv",
     "Курс ML МФТИ/datasets/3. Композиция алгоритмов и выбор модели/submission.csv",
@@ -251,14 +255,10 @@
     "Курс ML МФТИ/datasets/3",
     "Курс ML МФТИ/datasets/Новая папка",
     "Курс ML МФТИ/3. Композиция алгоритмов и выбор модели/2. Доп_метрики в задаче регрессии.pdf",
-    "Курс ML МФТИ/3. Композиция алгоритмов и выбор модели/3. model_selection_ensembles.ipynb",
     "Курс ML МФТИ/3. Композиция алгоритмов и выбор модели/Без названия.md",
     "Курс ML МФТИ/3. Композиция алгоритмов и выбор модели/1. Лекция. Решающие деревья и композиции алгоритмов.pdf",
-    "Курс ML МФТИ/2. Линейные модели/3. hw_2_linear_models.ipynb",
-    "Курс ML МФТИ/3. Композиция алгоритмов и выбор модели",
     "Машинное обучение/1. Линейная регрессия.md",
     "pictures/Pasted image 20260716222557.png",
-    "Python3/3. Pandas/5. Очистка данных.md",
     "Python3/3. Pandas/4. Фильтрация.md",
     "Python3/3. Pandas/6. Группировка и агрегация.md",
     "Python3/3. Pandas/3. Тип данных DataFrame.md",
