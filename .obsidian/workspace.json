@@ -77,14 +77,12 @@
             "id": "c2afa42a2f89ba10",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "jupyter-viewer",
               "state": {
-                "file": "Python3/3. Pandas/4. Фильтрация.md",
-                "mode": "source",
-                "source": false
+                "file": "Курс ML МФТИ/4. Введение в нейронные сети/3. part_2_torch_autograd.ipynb"
               },
               "icon": "lucide-file",
-              "title": "4. Фильтрация"
+              "title": "3. part_2_torch_autograd"
             }
           }
         ],
@@ -207,13 +205,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python3/3. Pandas/4. Фильтрация.md",
+                "file": "Курс ML МФТИ/4. Введение в нейронные сети/3. part_2_torch_autograd.ipynb",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 4. Фильтрация"
+              "title": "Структура 3. part_2_torch_autograd"
             }
           },
           {
@@ -247,8 +245,10 @@
   },
   "active": "823b0712a6f5829f",
   "lastOpenFiles": [
-    "Курс ML МФТИ/4. Введение в нейронные сети/1. Введение в глубокое обучение.pdf",
     "Курс ML МФТИ/4. Введение в нейронные сети/2. part_1_PyTorch_intro.ipynb",
+    "Курс ML МФТИ/4. Введение в нейронные сети/3. part_2_torch_autograd.ipynb",
+    "Python3/3. Pandas/4. Фильтрация.md",
+    "Курс ML МФТИ/4. Введение в нейронные сети/1. Введение в глубокое обучение.pdf",
     "Курс ML МФТИ/4. Введение в нейронные сети",
     "Курс ML МФТИ/datasets/3. Композиция алгоритмов и выбор модели/train.csv",
     "Курс ML МФТИ/datasets/3. Композиция алгоритмов и выбор модели/test.csv",
@@ -257,9 +257,7 @@
     "Курс ML МФТИ/datasets/2. Линейные модели/train.csv",
     "Курс ML МФТИ/datasets/2. Линейные модели",
     "Курс ML МФТИ/datasets",
-    "Курс ML МФТИ/3. Композиция алгоритмов и выбор модели/4. Copy_of_hw_3_kaggle.ipynb",
     "Python3/3. Pandas/5. Очистка данных.md",
-    "Python3/3. Pandas/4. Фильтрация.md",
     "Python3/3. Pandas/6. Группировка и агрегация.md",
     "Машинное обучение/1. Линейная регрессия.md",
     "Python3/3. Pandas/3. Тип данных DataFrame.md",
