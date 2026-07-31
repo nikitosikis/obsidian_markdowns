@@ -79,10 +79,10 @@
             "state": {
               "type": "jupyter-viewer",
               "state": {
-                "file": "Курс ML МФТИ/4. Введение в нейронные сети/3. part_2_torch_autograd.ipynb"
+                "file": "Курс ML МФТИ/5. Сверточные нейросети/2. convolution_pooling.ipynb"
               },
               "icon": "lucide-file",
-              "title": "3. part_2_torch_autograd"
+              "title": "2. convolution_pooling"
             }
           }
         ],
@@ -205,13 +205,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Курс ML МФТИ/4. Введение в нейронные сети/3. part_2_torch_autograd.ipynb",
+                "file": "Курс ML МФТИ/5. Сверточные нейросети/2. convolution_pooling.ipynb",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 3. part_2_torch_autograd"
+              "title": "Структура 2. convolution_pooling"
             }
           },
           {
@@ -245,8 +245,11 @@
   },
   "active": "823b0712a6f5829f",
   "lastOpenFiles": [
-    "Курс ML МФТИ/4. Введение в нейронные сети/2. part_1_PyTorch_intro.ipynb",
+    "Курс ML МФТИ/5. Сверточные нейросети/1. Свёрточные нейронные сети.pdf",
     "Курс ML МФТИ/4. Введение в нейронные сети/3. part_2_torch_autograd.ipynb",
+    "Курс ML МФТИ/5. Сверточные нейросети/2. convolution_pooling.ipynb",
+    "Курс ML МФТИ/5. Сверточные нейросети",
+    "Курс ML МФТИ/4. Введение в нейронные сети/2. part_1_PyTorch_intro.ipynb",
     "Python3/3. Pandas/4. Фильтрация.md",
     "Курс ML МФТИ/4. Введение в нейронные сети/1. Введение в глубокое обучение.pdf",
     "Курс ML МФТИ/4. Введение в нейронные сети",
@@ -254,9 +257,6 @@
     "Курс ML МФТИ/datasets/3. Композиция алгоритмов и выбор модели/test.csv",
     "Курс ML МФТИ/datasets/3. Композиция алгоритмов и выбор модели/submission.csv",
     "Курс ML МФТИ/datasets/3. Композиция алгоритмов и выбор модели",
-    "Курс ML МФТИ/datasets/2. Линейные модели/train.csv",
-    "Курс ML МФТИ/datasets/2. Линейные модели",
-    "Курс ML МФТИ/datasets",
     "Python3/3. Pandas/5. Очистка данных.md",
     "Python3/3. Pandas/6. Группировка и агрегация.md",
     "Машинное обучение/1. Линейная регрессия.md",
