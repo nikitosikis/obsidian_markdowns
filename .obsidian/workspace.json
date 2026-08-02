@@ -11,12 +11,12 @@
             "id": "0f7571e7f35bd2f2",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "jupyter-viewer",
               "state": {
-                "file": "pictures/Pasted image 20260716222557.png"
+                "file": "Курс ML МФТИ/1. Основы машинного обучения/4. hw_1_game_of_thrones.ipynb"
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260716222557"
+              "icon": "lucide-file",
+              "title": "4. hw_1_game_of_thrones"
             }
           },
           {
@@ -79,14 +79,13 @@
             "state": {
               "type": "jupyter-viewer",
               "state": {
-                "file": "Курс ML МФТИ/5. Сверточные нейросети/2. convolution_pooling.ipynb"
+                "file": "Курс ML МФТИ/1. Основы машинного обучения/2. part_2_intro_to_sklearn.ipynb"
               },
               "icon": "lucide-file",
-              "title": "2. convolution_pooling"
+              "title": "2. part_2_intro_to_sklearn"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -178,12 +177,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Машинное обучение/linear_regression.ipynb",
+                "file": "Курс ML МФТИ/1. Основы машинного обучения/4. hw_1_game_of_thrones.ipynb",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из linear_regression"
+              "title": "Исходящие ссылки из 4. hw_1_game_of_thrones"
             }
           },
           {
@@ -205,13 +204,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Курс ML МФТИ/5. Сверточные нейросети/2. convolution_pooling.ipynb",
+                "file": "Курс ML МФТИ/1. Основы машинного обучения/4. hw_1_game_of_thrones.ipynb",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 2. convolution_pooling"
+              "title": "Структура 4. hw_1_game_of_thrones"
             }
           },
           {
@@ -220,8 +219,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -245,21 +244,23 @@
   },
   "active": "823b0712a6f5829f",
   "lastOpenFiles": [
-    "Курс ML МФТИ/5. Сверточные нейросети/1. Свёрточные нейронные сети.pdf",
-    "Курс ML МФТИ/4. Введение в нейронные сети/3. part_2_torch_autograd.ipynb",
+    "Курс ML МФТИ/5. Сверточные нейросети/3. hw_4_conv_cnn.ipynb",
     "Курс ML МФТИ/5. Сверточные нейросети/2. convolution_pooling.ipynb",
+    "Курс ML МФТИ/5. Сверточные нейросети/1. Свёрточные нейронные сети.pdf",
     "Курс ML МФТИ/5. Сверточные нейросети",
+    "Курс ML МФТИ/4. Введение в нейронные сети/3. part_2_torch_autograd.ipynb",
     "Курс ML МФТИ/4. Введение в нейронные сети/2. part_1_PyTorch_intro.ipynb",
-    "Python3/3. Pandas/4. Фильтрация.md",
     "Курс ML МФТИ/4. Введение в нейронные сети/1. Введение в глубокое обучение.pdf",
     "Курс ML МФТИ/4. Введение в нейронные сети",
-    "Курс ML МФТИ/datasets/3. Композиция алгоритмов и выбор модели/train.csv",
-    "Курс ML МФТИ/datasets/3. Композиция алгоритмов и выбор модели/test.csv",
-    "Курс ML МФТИ/datasets/3. Композиция алгоритмов и выбор модели/submission.csv",
-    "Курс ML МФТИ/datasets/3. Композиция алгоритмов и выбор модели",
+    "Курс ML МФТИ/3. Композиция алгоритмов и выбор модели/4. Copy_of_hw_3_kaggle.ipynb",
+    "Курс ML МФТИ/2. Линейные модели/3. hw_2_linear_models.ipynb",
     "Python3/3. Pandas/5. Очистка данных.md",
-    "Python3/3. Pandas/6. Группировка и агрегация.md",
+    "Курс ML МФТИ/3. Композиция алгоритмов и выбор модели/3. model_selection_ensembles.ipynb",
+    "Курс ML МФТИ/3. Композиция алгоритмов и выбор модели/Без названия.md",
     "Машинное обучение/1. Линейная регрессия.md",
+    "pictures/Pasted image 20260716222557.png",
+    "Python3/3. Pandas/4. Фильтрация.md",
+    "Python3/3. Pandas/6. Группировка и агрегация.md",
     "Python3/3. Pandas/3. Тип данных DataFrame.md",
     "Python3/4. PyTorch/1. Введение в Pytorch/9. Градиенты и автоматическое дифференцирование.md",
     "Python3/4. PyTorch/1. Введение в Pytorch/10. Обучение и оптимизация параметров модели.md",
@@ -280,7 +281,6 @@
     "Python3/3. Pandas/1. Введение в Pandas.md",
     "Python3/3. Pandas/2. Тип данных Series.md",
     "Python3/3. Pandas/7. Организация данных.md",
-    "Python3/3. Pandas/8. Анализ временных рядов.md",
     "pictures/Pasted image 20260720010142.png",
     "pictures/Pasted image 20260720005123.png",
     "pictures/Pasted image 20260720010050.png",
@@ -290,7 +290,6 @@
     "Pasted image 20260719231531.png",
     "Pasted image 20260719231213.png",
     "pictures/Pasted image 20260719193224.png",
-    "pictures/Pasted image 20260716222557.png",
     "pictures/Pasted image 20260719191849.png",
     "Теормех/Без названия.canvas",
     "Без названия 1.canvas",
