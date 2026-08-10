@@ -84,8 +84,21 @@
               "icon": "lucide-file",
               "title": "2. part_2_intro_to_sklearn"
             }
+          },
+          {
+            "id": "f2e5722d6cdc46f8",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.13.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "примечания к выпуску 1.13.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -105,7 +118,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Файловый менеджер"
@@ -204,13 +219,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Курс ML МФТИ/1. Основы машинного обучения/4. hw_1_game_of_thrones.ipynb",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 4. hw_1_game_of_thrones"
+              "title": "Структура"
             }
           },
           {
@@ -244,18 +258,18 @@
   },
   "active": "823b0712a6f5829f",
   "lastOpenFiles": [
+    "Курс ML МФТИ/8. Семантическая сегментация/2. semantic_segmentation.ipynb",
+    "Курс ML МФТИ/8. Семантическая сегментация/1. Семантическая сегментация.pdf",
+    "Курс ML МФТИ/8. Семантическая сегментация",
+    "Курс ML МФТИ/7. Архитектуры CNN и Fine-Tuning/3. (НЕ СДЕЛАНО)hw_5_simpsons_classification.ipynb",
+    "Курс ML МФТИ/7. Архитектуры CNN и Fine-Tuning/1. Архитектуры CNN и Transfer Learning.pdf",
+    "Курс ML МФТИ/7. Архитектуры CNN и Fine-Tuning/2. [seminar]conv_net_optimization_ipynb_.ipynb",
+    "Курс ML МФТИ/7. Архитектуры CNN и Fine-Tuning",
+    "Курс ML МФТИ/6. Продвинутое обучение нейросетей/2. pytorch_bn_dropout.ipynb",
+    "Курс ML МФТИ/6. Продвинутое обучение нейросетей/1. Оптимизация_и_регуляризация_в_Deep_Learning.pdf",
+    "Курс ML МФТИ/6. Продвинутое обучение нейросетей",
     "Курс ML МФТИ/5. Сверточные нейросети/3. hw_4_conv_cnn.ipynb",
-    "Курс ML МФТИ/5. Сверточные нейросети/2. convolution_pooling.ipynb",
-    "Курс ML МФТИ/5. Сверточные нейросети/1. Свёрточные нейронные сети.pdf",
-    "Курс ML МФТИ/5. Сверточные нейросети",
-    "Курс ML МФТИ/4. Введение в нейронные сети/3. part_2_torch_autograd.ipynb",
-    "Курс ML МФТИ/4. Введение в нейронные сети/2. part_1_PyTorch_intro.ipynb",
-    "Курс ML МФТИ/4. Введение в нейронные сети/1. Введение в глубокое обучение.pdf",
-    "Курс ML МФТИ/4. Введение в нейронные сети",
-    "Курс ML МФТИ/3. Композиция алгоритмов и выбор модели/4. Copy_of_hw_3_kaggle.ipynb",
-    "Курс ML МФТИ/2. Линейные модели/3. hw_2_linear_models.ipynb",
     "Python3/3. Pandas/5. Очистка данных.md",
-    "Курс ML МФТИ/3. Композиция алгоритмов и выбор модели/3. model_selection_ensembles.ipynb",
     "Курс ML МФТИ/3. Композиция алгоритмов и выбор модели/Без названия.md",
     "Машинное обучение/1. Линейная регрессия.md",
     "pictures/Pasted image 20260716222557.png",
